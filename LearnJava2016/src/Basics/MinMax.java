@@ -19,5 +19,7 @@ public class MinMax
 				largest = n;
 			}
 		}
+		System.out.println("The Largest Number is " + largest);
+		System.out.println("The Smallest Number is " + smallest);
 	}
 }
